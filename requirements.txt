@@ -1,0 +1,5 @@
+peewee==3.14.8           # For SQLite/MySQL ORM
+watchdog==3.0.0          # For monitoring folder changes
+requests==2.31.0         # For web requests (if needed in the future)
+beautifulsoup4==4.12.2   # For web scraping (if needed in the future)
+pywin32==306             # For extracting metadata from setup files (Windows-specific)
